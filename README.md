@@ -5,8 +5,6 @@ Most of the functions are translated from its R version. An additional function 
 
 Useful links:
 
-  Algorithm: https://www.sciencedirect.com/science/article/pii/S0003347214000074
-  
-  Original R version: https://github.com/cran/assortnet
-  
-  Manual for the original R version: https://cran.r-project.org/web/packages/assortnet/assortnet.pdf
+  - Algorithm: https://www.sciencedirect.com/science/article/pii/S0003347214000074
+  - Original R version: https://github.com/cran/assortnet
+  - Manual for the original R version: https://cran.r-project.org/web/packages/assortnet/assortnet.pdf
