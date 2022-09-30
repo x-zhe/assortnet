@@ -10,5 +10,7 @@ Usage examples can be found in example.py.
 Useful links:
 
   - Algorithm: https://www.sciencedirect.com/science/article/pii/S0003347214000074
+ Farine, D. R. (2014). Measuring phenotypic assortment in animal social networks: weighted associations are more robust than binary edges. Animal Behaviour, 89, 141-153.
+  
   - Original R version: https://github.com/cran/assortnet
   - Manual for the original R version: https://cran.r-project.org/web/packages/assortnet/assortnet.pdf
