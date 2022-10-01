@@ -1,5 +1,5 @@
 # assortnet
-A Python package for calculating the assortativity coefficient and the mixing matrix for weighted networks and binary networks.
+A Python package for calculating the assortativity coefficient, the jackknife standard deviation, and the mixing matrix for a given weighted network or binary network.
 
 Most of the functions are translated from its R version. An additional function of generating mixing matrix for categorical attributes is added.
 
